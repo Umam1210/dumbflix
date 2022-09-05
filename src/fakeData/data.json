@@ -1,0 +1,83 @@
+[
+  {
+    "id": "1",
+    "image": "/image2/img1.png",
+    "name": "The Witcher",
+    "year": "2017"
+  },
+  {
+    "id": "2",
+    "image": "/image2/img2.png",
+    "name": "Persona 3 The Movie",
+    "year": "2018"
+  },
+  {
+    "id": "3",
+    "image": "/image2/img3.png",
+    "name": "Game Of Thrones",
+    "year": "2015"
+  },
+  {
+    "id": "4",
+    "image": "/image2/img4.png",
+    "name": "Money Heist",
+    "year": "2012"
+  },
+  { "id": "5", "image": "/image2/img5.png", "name": "Touchr", "year": "2010" },
+
+  { "id": "6", "image": "/image2/img24.png", "name": "Arrow", "year": "2022" },
+  {
+    "id": "7",
+    "image": "/image2/img7.png",
+    "name": "The GodFather",
+    "year": "2011"
+  },
+  {
+    "id": "8",
+    "image": "/image2/img8.png",
+    "name": "Gisaengchung",
+    "year": "2007"
+  },
+  {
+    "id": "9",
+    "image": "/image2/img9.png",
+    "name": "Gisaengchung",
+    "year": "2007"
+  },
+  {
+    "id": "10",
+    "image": "/image2/img20.png",
+    "name": "Gisaengchung",
+    "year": "2007"
+  },
+  {
+    "id": "11",
+    "image": "/image2/img11.png",
+    "name": "Gisaengchung",
+    "year": "2007"
+  },
+  {
+    "id": "12",
+    "image": "/image2/img12.png",
+    "name": "Gisaengchung",
+    "year": "2007"
+  },
+  {
+    "id": "13",
+    "image": "/image2/img13.png",
+    "name": "Gisaengchung",
+    "year": "2007"
+  },
+  {
+    "id": "14",
+    "image": "/image2/img14.png",
+    "name": "Gisaengchung",
+    "year": "2007"
+  },
+  {
+    "id": "15",
+    "image": "/image2/img15.png",
+    "name": "Gisaengchung",
+    "year": "2007"
+  }
+]

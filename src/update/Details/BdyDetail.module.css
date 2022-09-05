@@ -1,0 +1,18 @@
+.divUnit {
+  width: 100%;
+  height: 100%;
+  background-color: black;
+}
+.divMain {
+  width: 100%;
+  height: 500px;
+  background: rgb(5, 5, 5);
+  background-size: cover;
+  object-fit: contain;
+  align-items: center;
+}
+.divMain video {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+}

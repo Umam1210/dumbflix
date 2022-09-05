@@ -1,0 +1,26 @@
+.main1 {
+  width: 95%;
+  background-color: rgb(12, 12, 12);
+  object-fit: cover;
+  left: 30px;
+}
+.main2 {
+  width: 100%;
+  height: 400px;
+  transition: transform 450ms;
+}
+.main2:hover {
+  transform: scale(1);
+  opacity: 1;
+}
+
+.main3 {
+  display: flex;
+  flex-direction: column;
+  color: white;
+  font-weight: bold;
+}
+.main4 {
+  display: flex;
+  flex-direction: row;
+}
